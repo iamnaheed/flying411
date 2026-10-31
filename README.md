@@ -300,11 +300,9 @@ Main tables used by the application:
 
 ## 👨‍💻 Author
 
-**Shahbaz Haider**
-📧 shahbaz.haider@rapextech.com
+**Naheed Nawaz**
+naheednawaz444@gmail.com
+BS Software Engineering
+University of Sargodha
 
 ---
-
-## 📄 License
-
-This project was built for academic presentation at the International University Expo. All rights reserved by the author unless stated otherwise.
